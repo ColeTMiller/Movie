@@ -67,6 +67,10 @@ namespace MoviesForm
             var about = new AboutBox1();
             about.ShowDialog(this); 
         }
-        
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
